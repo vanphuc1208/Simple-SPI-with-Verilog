@@ -1,4 +1,4 @@
-# UART with Verilog
+# Simple SPI with Verilog
 
 ## General Information:
 - Goal: design, validate, and synthesize a simple SPI protocol. It would miss some characteristics.
