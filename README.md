@@ -12,6 +12,7 @@
 - clk: clock signal from the board.
 - start (active high input): sign that the data is ready to transmit.
 - din: the data to transmit.
+
 ***Output**
 - cs: when we begin to transmit data, this signal active low.
 - mosi: receive sequently single bit data.
